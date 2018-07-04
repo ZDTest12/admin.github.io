@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+admin1.kraken.com	TRUE	/	FALSE	1999999999	dev	iG-s-hW_FLlcyXQJmUHC8-EI0nZNcBdWCIdlSG47178
+admin1.kraken.com	TRUE	/	FALSE	1999999999	SESSID	7lmjSLnV9PPsKIGC0s%2Coq4HzNga
+

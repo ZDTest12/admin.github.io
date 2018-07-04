@@ -1,0 +1,38 @@
+HTTrack3.49-2 launched on Wed, 04 Jul 2018 11:57:29 at https://admin1.kraken.com/login
+(winhttrack https://admin1.kraken.com/login -O "/users/kevin/desktop/admin/Admin" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:58:42	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/monsterid (from https://admin1.kraken.com/login)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/img/back_enabled.png (from https://admin1.kraken.com/css/xchg.min.css?v=56)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/img/back_enabled_hover.png (from https://admin1.kraken.com/css/xchg.min.css?v=56)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/img/back_disabled.png (from https://admin1.kraken.com/css/xchg.min.css?v=56)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/img/forward_enabled.png (from https://admin1.kraken.com/css/xchg.min.css?v=56)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/img/forward_enabled_hover.png (from https://admin1.kraken.com/css/xchg.min.css?v=56)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/img/forward_disabled.png (from https://admin1.kraken.com/css/xchg.min.css?v=56)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/Firefox/ (from https://admin1.kraken.com/js/xchg.min.js?v=121)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/QxC/ (from https://admin1.kraken.com/js/xchg.min.js?v=121)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/JvL/?ix4 (from https://admin1.kraken.com/js/xchg.min.js?v=121)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/Al0ef5]zAm/ (from https://admin1.kraken.com/js/xchg.min.js?v=121)
+11:58:47	Error: 	"Not Found" (404) at link https://admin1.kraken.com/C0GEr=/?%R1[4 (from https://admin1.kraken.com/js/xchg.min.js?v=121)
+11:59:12	Error: 	"Not Found" (404) at link https://admin1.kraken.com/en-us/legal (from https://admin1.kraken.com/legal/privacy)
+11:59:12	Error: 	"Not Found" (404) at link https://admin1.kraken.com/market (from https://admin1.kraken.com/help/fees-and-pair-info)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=http%3A%2F%2Fwww.ifex-project.org%2F (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fsupport.kraken.com (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fgithub.com%2FhANSIc99%2FKraken_C_API (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fbitbucket.org%2Farrivets%2Fkrakenapi (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fgithub.com%2Fvoidloop%2Fkrakenapi (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fgithub.com%2FBeldur%2Fkraken-go-api-client (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fgithub.com%2Fnothingisdead%2Fnpm-kraken-api (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=http%3A%2F%2Fsearch.cpan.org%2F%7Ephilippe%2FFinance-Bank-Kraken-0.1%2F (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fgithub.com%2Fveox%2Fpython3-krakenex (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fgithub.com%2Fveox%2Fpython2-krakenex (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fgithub.com%2Fleishman%2Fkraken_ruby (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=https%3A%2F%2Fgithub.com%2Fpayward%2Fkraken-api-client%2Ftree%2Fmaster%2Fphp (from https://admin1.kraken.com/help/api)
+11:59:13	Error: 	"Forbidden" (403) at link https://admin1.kraken.com/redirect?url=http%3A%2F%2Fopensource.org%2Flicenses%2FMIT (from https://admin1.kraken.com/help/api)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 44 seconds : 108 links scanned, 80 files written (3108492 bytes overall) [2571345 bytes received at 24724 bytes/sec], 1309074 bytes transferred using HTTP compression in 57 files, ratio 15%, 18.0 requests per connection
+(27 errors, 0 warnings, 0 messages)
